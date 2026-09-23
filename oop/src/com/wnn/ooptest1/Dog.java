@@ -1,4 +1,4 @@
-package com.wnn.opptest1;
+package com.wnn.ooptest1;
 
 public class Dog {
     //利用面向对象思想表示狗狗（属性：姓名，年龄，体重，毛发颜色）

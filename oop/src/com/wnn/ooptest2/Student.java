@@ -1,4 +1,4 @@
-package com.wnn.opptest2;
+package com.wnn.ooptest2;
 
 public class Student {
     String name; // 姓名

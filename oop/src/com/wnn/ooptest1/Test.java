@@ -1,4 +1,4 @@
-package com.wnn.opptest1;
+package com.wnn.ooptest1;
 
 public class Test {
     public static void main(String[] args) {
