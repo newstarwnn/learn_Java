@@ -9,8 +9,8 @@ public class Student {
 
     //针对每一个私有化的成员变量，提供set/get方法
     //姓名的set/get方法
-    public void setName(String value) {
-        name = value;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getName() {
@@ -18,8 +18,8 @@ public class Student {
     }
 
     //年龄的set/get方法
-    public void setAge(int num) {
-        age = num;
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public int getAge() {
@@ -27,8 +27,8 @@ public class Student {
     }
 
     //身高的set/get方法
-    public void setHeight(double num) {
-        height = num;
+    public void setHeight(double height) {
+        this.height = height;
     }
 
     public double getHeight() {
@@ -36,8 +36,8 @@ public class Student {
     }
 
     //体重的set/get方法
-    public void setWeight(double num) {
-        weight = num;
+    public void setWeight(double weight) {
+        this.weight = weight;
     }
 
     public double getWeight() {
