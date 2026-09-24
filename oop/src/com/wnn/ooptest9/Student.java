@@ -8,6 +8,7 @@ public class Student {
     //构造方法和set/get方法都能用快捷键生成
     //快捷键：alt + (Fn) + insert 出现generate然后选择constructor和setter/getter方法
     //Ctrl + A 全选
+    //Alt + 鼠标拖动 = 选中一列
     public Student() {
     }
 
